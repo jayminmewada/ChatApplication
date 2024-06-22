@@ -54,5 +54,3 @@ Contributions are welcome! Please fork this repository and submit a pull request
 Author
 
 Jaymin Mewada
-
-Feel free to customize the README file with more details about your application, such as deployment instructions, screenshots, or additional features. Let me know if you need further assistance!
